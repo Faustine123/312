@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: litera
+    theme: sketchy
     css: styles.css
     toc: true
     href: Resume.pdf
