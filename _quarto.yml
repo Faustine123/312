@@ -8,8 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - Resume.html
       - portfolio.qmd
-      - Resume.qmd
+      
       
 
 
